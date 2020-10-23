@@ -13,6 +13,12 @@ SQLite database integrates the datasets into single source, which is used by the
 Templating
 Jinja template-structure segments the Flask application html content into multilayer web application.
 
+# Bokeh-visualization-dashboard
+Dashboard with Bokeh-visualizations built on top of Flask web application. This visualization is build with Python and Bokeh-library. The visualizations are rendered on web application based on Flask. The web application templates are build with Jinja.
+
+Introduction to Bokeh
+Bokeh is a python visualization library, which allows visualizations build from pandas dataframes. 
+
 
 
 
